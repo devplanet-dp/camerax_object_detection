@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "346622263216",
+    "firebase_url": "https://android-object-detection-6ed9a.firebaseio.com",
+    "project_id": "android-object-detection-6ed9a",
+    "storage_bucket": "android-object-detection-6ed9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346622263216:android:fa058acbac11f820b32075",
+        "android_client_info": {
+          "package_name": "com.dev_planet.camerax_object_detection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346622263216-6aehn3a9efg4goh1gfekjka13re0sno1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcg1ntfPYlAwQ9UiwM7EWXC-kVn5n-0Lo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346622263216-6aehn3a9efg4goh1gfekjka13re0sno1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
